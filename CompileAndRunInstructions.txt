@@ -8,7 +8,8 @@ Problem 1)
     
     ./a.out
   
-  There is no output for the program as this was not specified in the assignment information, but if you would like to see how some of the step by step actions work between the threads, you can modify the const global bool PRINT_OUTPUT at the top of the program if you would like to do so.
+  There is no output for the program as this was not specified in the assignment information, but if you would like to see how some of the step by step
+  actions work between the threads, you can modify the const global bool PRINT_OUTPUT at the top of the program if you would like to do so.
  
 Problem 2)
   First you must download the file called HW2_Problem2.cpp and save it.
@@ -20,5 +21,7 @@ Problem 2)
     
     ./a.out
   
-  There is no output for the program as this was not specified in the assignment information, but if you would like to see how some of the step by step actions work between the threads, you can modify the const global bool PRINT_OUTPUT at the top of the program if you would like to do so.
- 
+  There is no output for the program as this was not specified in the assignment information, but if you would like to see how some of the step by step
+  actions work between the threads, you can modify the const global bool PRINT_OUTPUT at the top of the program if you would like to do so.
+
+If you have any trouble with the grading please do not hesitate to email me.
