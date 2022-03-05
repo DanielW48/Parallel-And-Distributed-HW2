@@ -1,0 +1,24 @@
+Problem 1)
+  First you must download the file called HW2_Problem1.cpp and save it.
+  Then, to compile the program, run the following command:
+  
+    g++ -std=c++11 HW2_Problem1.cpp -pthread -O0
+  
+  Then, to run the program, run the following command:
+    
+    ./a.out
+  
+  There is no output for the program as this was not specified in the assignment information, but if you would like to see how some of the step by step actions work between the threads, you can modify the const global bool PRINT_OUTPUT at the top of the program if you would like to do so.
+ 
+Problem 2)
+  First you must download the file called HW2_Problem2.cpp and save it.
+  Then, to compile the program, run the following command:
+  
+    g++ -std=c++11 HW2_Problem2.cpp -pthread -O0
+  
+  Then, to run the program, run the following command:
+    
+    ./a.out
+  
+  There is no output for the program as this was not specified in the assignment information, but if you would like to see how some of the step by step actions work between the threads, you can modify the const global bool PRINT_OUTPUT at the top of the program if you would like to do so.
+ 
